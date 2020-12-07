@@ -1,0 +1,5 @@
+01: ifconfig == Configure netrwork interface parameters. The ifconfig utility is used to assign an adress to a network 
+02: en1 is the second Ethernet interface
+    Grep is a command line for searching plain text data sets that match a regular expression
+	awk is a domain langauge designed for text processing and typically used as a data extraction and reporting tool
+	{print} AWK reads an input at a time, a line is scanned for each pattern in the pattern and for each pattern that matches
